@@ -31,3 +31,6 @@ if (answer >= jami) {
     "h1"
   ).textContent = `Sizda Pul Yetarlicha Emas ${kun} Kundan Keyin Urinib Ko'ring`;
 }
+
+// Kodni ko`rayotganga Salom 
+//Iltimos chopilmasin 😂
